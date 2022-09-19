@@ -33,13 +33,13 @@ Spacebar: Toggle autospin
 
 ## Media
 
-![desc](https://nemotech.org/workspace/opengl/map/media/shot1.png)
+![desc](https://nemotech.org/workspace/opengl/map/media/shot-1.png)
 
-![desc](https://nemotech.org/workspace/opengl/map/media/shot2.png)
+![desc](https://nemotech.org/workspace/opengl/map/media/shot-2.png)
 
-![desc](https://nemotech.org/workspace/opengl/map/media/shot3.png)
+![desc](https://nemotech.org/workspace/opengl/map/media/shot-3.png)
 
-![desc](https://nemotech.org/workspace/opengl/map/media/shot4.png)
+![desc](https://nemotech.org/workspace/opengl/map/media/shot-4.png)
 
 ## Todo List
 
