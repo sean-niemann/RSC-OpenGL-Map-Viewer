@@ -1,0 +1,12 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/sean/Desktop/mapview'
+gcc -O3 -Wno-deprecated-declarations   -c -o src/main.o src/main.c
+ 
+gcc -O3 -Wno-deprecated-declarations   -c -o src/model.o src/model.c
+gcc -O3 -Wno-deprecated-declarations   -c -o src/texture.o src/texture.c
+gcc -O3 -Wno-deprecated-declarations   -c -o src/tile.o src/tile.c
+gcc -O3 -Wno-deprecated-declarations   -c -o src/util.o src/util.c
+gcc -O3 -Wno-deprecated-declarations -o mapview src/main.o src/model.o src/texture.o src/tile.o src/util.o -lglfw -framework OpenGL
+rm -f src/main.o src/model.o src/texture.o src/tile.o src/util.o
+make: Leaving directory `/Users/sean/Desktop/mapview'
+ 

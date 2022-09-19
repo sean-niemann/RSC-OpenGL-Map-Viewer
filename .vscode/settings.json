@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "stb_image.h": "c",
+        "availability.h": "c",
+        "__tuple": "c",
+        "array": "c",
+        "stb_easy_font.h": "c",
+        "gl.h": "c",
+        "assert.h": "c",
+        "model.h": "c",
+        "tile.h": "c",
+        "util.h": "c",
+        "main.h": "c",
+        "glfw3.h": "c",
+        "_null.h": "c",
+        "stdbool.h": "c",
+        "math.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "texture.h": "c"
+    }
+}
