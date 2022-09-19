@@ -23,21 +23,22 @@ Spacebar: Toggle autospin
 
 ## Media
 
+![desc](https://nemotech.org/workspace/opengl/map/media/shot1.png)
+
+![desc](https://nemotech.org/workspace/opengl/map/media/shot2.png)
+
+![desc](https://nemotech.org/workspace/opengl/map/media/shot3.png)
+
+![desc](https://nemotech.org/workspace/opengl/map/media/shot4.png)
+
 https://nemotech.org/workspace/opengl/map/media/vid1.mov
 
-![enter image description here](https://nemotech.org/workspace/opengl/map/media/shot1.png)
-
-![enter image description here](https://nemotech.org/workspace/opengl/map/media/shot2.png)
-
-![enter image description here](https://nemotech.org/workspace/opengl/map/media/shot3.png)
-
-![enter image description here](https://nemotech.org/workspace/opengl/map/media/shot4.png)
 ## Todo List
 
-Add transparency support for textures
-Animate appropriate models
-Roof rendering
-Proper bridges
-Tile picking
-Add Orbit and WASD perspective modes
-Compress cache
+* Add transparency support for textures
+* Animate appropriate models
+* Roof rendering
+* Proper bridges
+* Tile picking
+* Add Orbit and WASD perspective modes
+* Compress cache
