@@ -10,11 +10,16 @@ Click and drag to control the scene
 Arrow Keys: Move sector
 
 1: Toggle Wireframe
+
 2: Toggle Info
-3. Toggle Tile Cropping
-4. Toggle Terrain Rendering
-5. Toggle Wall Rendering
-6. Toggle Model Rendering
+
+3: Toggle Tile Cropping
+
+4: Toggle Terrain Rendering
+
+5: Toggle Wall Rendering
+
+6: Toggle Model Rendering
 
 Mouse wheel: Adjust camera zoom
 Mouse wheel + CTRL: Adjust tile height scale
