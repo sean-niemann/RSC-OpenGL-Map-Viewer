@@ -21,9 +21,9 @@ Arrow Keys: Move sector
 
 6: Toggle Model Rendering
 
-M: Toggle multistory
+M: Toggle Multistory Rendering
 
-U: Toggle underground
+U: Toggle Underground Rendering
 
 Mouse wheel: Adjust camera zoom
 
