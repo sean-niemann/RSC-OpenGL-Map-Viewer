@@ -22,6 +22,7 @@ Arrow Keys: Move sector
 6: Toggle Model Rendering
 
 Mouse wheel: Adjust camera zoom
+
 Mouse wheel + CTRL: Adjust tile height scale
 
 Spacebar: Toggle autospin
