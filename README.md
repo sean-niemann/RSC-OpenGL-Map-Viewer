@@ -36,8 +36,6 @@ Spacebar: Toggle autospin
 
 ![desc](https://nemotech.org/workspace/opengl/map/media/shot4.png)
 
-https://nemotech.org/workspace/opengl/map/media/vid1.mov
-
 ## Todo List
 
 * Add transparency support for textures
