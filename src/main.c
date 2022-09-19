@@ -252,20 +252,20 @@ void model_draw(struct Model *model, struct Tile *tile, struct Point3D *point) {
         }
 
         if (model->face_vertices[triangle] != NULL) {
-            int index1 = 0;
-            while (index1 < model->face_vertex_count[triangle]) {
-                int point_a = model->face_vertices[triangle][index1];
+            unsigned i = 0;
+            while (i < model->face_vertex_count[triangle]) {
+                int point_a = model->face_vertices[triangle][i];
                 float modelX = model->vertices_x[point_a],
                       modelZ = model->vertices_y[point_a],
                       modelY = model->vertices_z[point_a];
-                switch (index1) {
+                switch (i) {
                     case 0:  glTexCoord2f(1, 0); break;
                     case 1:  glTexCoord2f(0, 0); break;
                     case 2:  glTexCoord2f(0, 1); break;
                     default: glTexCoord2f(1, 1); break;
                 }
                 glVertex3f(modelX, modelZ, -modelY);
-                index1++;
+                i++;
             }
         }
         
