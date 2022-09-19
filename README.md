@@ -41,6 +41,8 @@ Spacebar: Toggle autospin
 
 ![desc](https://nemotech.org/workspace/opengl/map/media/shot-4.png)
 
+![desc](https://nemotech.org/workspace/opengl/map/media/vid2.mp4)
+
 ## Todo List
 
 * Shading
