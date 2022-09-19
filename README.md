@@ -38,6 +38,7 @@ Spacebar: Toggle autospin
 
 ## Todo List
 
+* Shading
 * Add transparency support for textures
 * Animate appropriate models
 * Roof rendering
