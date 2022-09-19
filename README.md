@@ -21,6 +21,10 @@ Arrow Keys: Move sector
 
 6: Toggle Model Rendering
 
+M: Toggle multistory
+
+U: Toggle underground
+
 Mouse wheel: Adjust camera zoom
 
 Mouse wheel + CTRL: Adjust tile height scale
