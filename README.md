@@ -39,10 +39,10 @@ Spacebar: Toggle autospin
 ## Todo List
 
 * Shading
-* Add transparency support for textures
+* Transparency support for textures
 * Animate appropriate models
 * Roof rendering
 * Proper bridges
 * Tile picking
-* Add Orbit and WASD perspective modes
+* Orbit and WASD perspective modes
 * Compress cache
