@@ -8,13 +8,13 @@
 
 <body style="background-color:black;">
 
-    <!-- Create the canvas that the C++ code will draw into -->
+    <!-- Drawing canvas -->
     <canvas id="canvas" oncontextmenu="event.preventDefault()"></canvas>
 
     <!-- Allow C to access canvas element -->
     <script type='text/javascript'>
         var canv = document.getElementById('canvas');
-        var Module = {s
+        var Module = {
             canvas: canv
         };
     </script>
