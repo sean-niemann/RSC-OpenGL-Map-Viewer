@@ -3,6 +3,8 @@
 
 An interactive OpenGL landscape and model viewer for RSC
 
+Web Version (much slower / long initial load time): https://nemotech.org/workspace/opengl/map/
+
 ## Controls
 
 Click and drag to control the scene
